@@ -1,30 +1,29 @@
 <!DOCTYPE html>
-<html>
-	<head>
-		<title>Mohsen Heidari</title>
-		<!-- link to main stylesheet -->
-		<link rel="stylesheet" type="text/css" href="/css/main.css">
-	</head>
-	<body>
-		<nav>
-    		<ul>
-        		<li><a href="/">Home</a></li>
-	        	<li><a href="/about">About</a></li>
-        		<li><a href="/cv">CV</a></li>
-        		<li><a href="/blog">Blog</a></li>
-    		</ul>
-		</nav>
-		<div class="container">
-    		<div class="blurb">
-        		<h1>Mohsen Heidari</h1>
-				<p>I am a postdoctoral researcher at Center for Science of Information (CSoI) at Purdue University working with Prof. Wojciech Szpankowski. I received my Ph.D. under the supervision of  Prof. Sandeep Pradhan in Electrical Engineering and my M.Sc. in Applied Mathematics from the University of Michigan in 2018 and 2017, respectively. I received my M.Sc. and B.Sc. in Electrical Engineering at Sharif University of Technology, Iran, in 2013 and 2011, respectively.
-</p>
-    		</div><!-- /.blurb -->
-		</div><!-- /.container -->
-		<footer>
-    		<ul>
-        		<li><a href="mailto:mheidari@purdue.edu">email</a></li>
-        		</ul>
-		</footer>
-	</body>
-</html>
+	<html>
+		<head>
+			<title>{{ page.title }}</title>
+			<!-- link to main stylesheet -->
+			<link rel="stylesheet" type="text/css" href="/css/main.css">
+		</head>
+		<body>
+			<nav>
+	    		<ul>
+	        		<li><a href="/">Home</a></li>
+		        	<li><a href="/about">About</a></li>
+	        		<li><a href="/cv">CV</a></li>
+	        		<li><a href="/blog">Blog</a></li>
+	    		</ul>
+			</nav>
+			<div class="container">
+			
+			{{ content }}
+			
+			</div><!-- /.container -->
+			<footer>
+	    		<ul>
+	        		<li><a href="mailto:hankquinlanhub@gmail.com">email</a></li>
+	        		<li><a href="https://github.com/hankquinlan">github.com/hankquinlan</a></li>
+				</ul>
+			</footer>
+		</body>
+	</html>
