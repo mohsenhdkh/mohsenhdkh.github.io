@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Mohsen Heidari"
   avatar           : "profile.jpg"
-  bio              : "Postdoctoral Scholar, Center for Science of Information (CSoI), Purdue University,  Email: [mheidari@purdue.edu](mheidari@purdue.edu)"
+  bio              : "Postdoctoral Scholar, Center for Science of Information (CSoI), Purdue University"
   location         : "West Lafayette, Indiana"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=ab9ZcfsAAAAJ&hl=en"
-  email            : # mheidari@purdue.edu
+  email            :  mheidari@purdue.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : http://linkedin.com/in/mohsen-heidari
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
