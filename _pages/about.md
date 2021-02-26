@@ -14,7 +14,7 @@ I received my Ph.D. under the supervision of  Prof. [Sandeep Pradhan](https://pr
 
 Reseach Interests
 ======
-My research interests broadly lie in information theory,  quantum information theory and statistical learning
+My research interests broadly lie in information theory,  quantum information theory and statistical learning.
 
 
 
