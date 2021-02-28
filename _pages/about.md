@@ -8,13 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-Currently, I am a postdoctoral researcher at NSF Center for Science of Information (CSoI) at Purdue University working with Prof. [Wojciech Szpankowski](https://www.cs.purdue.edu/homes/spa/).
+I am a Postdoctoral Research Associate at NSF Center for Science of Information (CSoI) based at Purdue University and hosted by [Wojciech Szpankowski](https://www.cs.purdue.edu/homes/spa/).
 
-I received my Ph.D. under the supervision of  Prof. [Sandeep Pradhan](https://pradhan.engin.umich.edu/) in Electrical Engineering and my M.Sc. in Applied Mathematics from the University of Michigan in 2018 and 2017, respectively. I received my M.Sc. and B.Sc. in Electrical Engineering at Sharif University of Technology, Iran, in 2013 and 2011, respectively.
+I received my Ph.D. in Electrical Engineering, in 2019, at the University of Michigan with [Sandeep Pradhan](https://pradhan.engin.umich.edu/) as my advisor. 
+Also, I received my M.Sc. in Applied Mathematics from the University of Michigan, in 2017. 
+Prioir to that, I received my M.Sc. and B.Sc. in Electrical Engineering at Sharif University of Technology, Iran.
 
 Reseach Interests
 ======
-My research interests broadly lie in information theory,  quantum information theory and statistical learning.
+My research interest broadly lies in the intersection of learning theory,  information theory and quantum information theory. 
 
 
 
