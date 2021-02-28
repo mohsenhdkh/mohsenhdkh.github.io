@@ -20,6 +20,8 @@ Reseach Interests
 ======
 My research interest broadly lies in the intersection of learning theory,  information theory and quantum information theory. 
 
+[CV](http://mohsenhdkh.github.io/files/cv.pdf)
+====
 
 
 
