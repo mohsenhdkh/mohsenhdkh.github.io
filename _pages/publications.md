@@ -83,7 +83,7 @@ Proceedings (ISIT), Jun 2015.\
 [pdf](http://mohsenhdkh.github.io/files/isit15_2.pdf)
 
 
- # M.Sc. and B.Sc. Publications 
+### M.Sc. and B.Sc. Publications 
 1. R. Kazemi, M. Boloursaz, **M.H. Khoozani**, F. Behnia,"*Modem based on
 sphere packing techniques in high-dimensional Euclidean sub-space for
 efficient data over voice communication through mobile voice
