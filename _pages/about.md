@@ -13,7 +13,7 @@ I am a Postdoctoral Research Associate at NSF Center for Science of Information 
 I received my Ph.D. in Electrical Engineering at the University of Michigan (2019). I was fortunate to have [Sandeep Pradhan](https://pradhan.engin.umich.edu/) as my advisor. 
 I hold my M.Sc. in Applied Mathematics from the University of Michigan, in 2017. Prioir to U of M, I received my M.Sc. and B.Sc. in Electrical Engineering at Sharif University of Technology, Iran.
 
-For more information see my [CV](http://mohsenhdkh.github.io/files/cv.pdf).
+See my [CV](http://mohsenhdkh.github.io/files/cv.pdf).
 
 ## Reseach Interests
 My research interests broadly lie in machine learning,  information theory and quantum information theory. My recent work has mainly focused on 
