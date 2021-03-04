@@ -32,15 +32,15 @@ under review,
 1. **A Theoretical Framework for Learning from Quantum Data** with [Arun Padakandla](http://web.eecs.utk.edu/~arunpr/index.html) and [Wojciech Szpankowski](https://www.cs.purdue.edu/homes/spa/),
 under review. 
 
+1. **On Agnostic PAC Learning Using L2-Polynomial Regression and Fourier Based Algorithms**, with [Wojciech Szpankowski](https://www.cs.purdue.edu/homes/spa/),
+under review,
+  available on [arXiv:2102.06277](https://arxiv.org/abs/2102.06277).
+  
 1. **Information Sufficiency via Fourier Expansion**, with [Jithin Sreedharan](https://jithin-k-sreedharan.github.io/#), [Gil Shamir](https://research.google/people/GilShamir/) and [Wojciech Szpankowski](https://www.cs.purdue.edu/homes/spa/),
 under review. 
 
 1. **Finding Relevant Information via a Discrete Fourier Expansion**, with [Jithin Sreedharan](https://jithin-k-sreedharan.github.io/#), [Gil Shamir](https://research.google/people/GilShamir/) and [Wojciech Szpankowski](https://www.cs.purdue.edu/homes/spa/),
 under review. 
-
-1. **On Agnostic PAC Learning Using L2-Polynomial Regression and Fourier Based Algorithms**, with [Wojciech Szpankowski](https://www.cs.purdue.edu/homes/spa/),
-under review,
-  available on [arXiv:2102.06277](https://arxiv.org/abs/2102.06277).
 
 1. **On The Error Exponent of Discrete Memoryless Multiple-Access Channel with Feedback**, with [Achilleas Anastasopoulos](https://anastasopoulos.engin.umich.edu/), and  [Sandeep Pradhan](https://pradhan.engin.umich.edu/),
 pre-print. 
