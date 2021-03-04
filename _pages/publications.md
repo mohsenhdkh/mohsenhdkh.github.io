@@ -80,7 +80,7 @@ Information Theory Proceedings (ISIT), Jun 2015.\
 1.  F. Shirani, **M. Heidari**, S. Pradhan, "*New Lattice Codes For
 Multiple Descriptions*\", IEEE International Symposium on Information Theory
 Proceedings (ISIT), Jun 2015.\
-[pdf](http://mohsenhdkh.github.io/files/isit15_1.pdf)
+[pdf](http://mohsenhdkh.github.io/files/isit15_2.pdf)
 
 
  
