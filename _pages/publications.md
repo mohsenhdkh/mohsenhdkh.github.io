@@ -83,4 +83,21 @@ Proceedings (ISIT), Jun 2015.\
 [pdf](http://mohsenhdkh.github.io/files/isit15_2.pdf)
 
 
- 
+ # Bsc and Msc Publications 
+1. R. Kazemi, M. Boloursaz, **M.H. Khoozani**, F. Behnia,"*Modem based on
+sphere packing techniques in high-dimensional Euclidean sub-space for
+efficient data over voice communication through mobile voice
+channels*\", IET Communications 2015, 9, (4), p. 508-516, DOI:
+10.1049/iet-com.2014.0610
+
+1. **M.H. Khoozani**, F. Marvasti, E. Azghani, M. Ghassemian, "*Finding
+Sub-Optimum Signature Matrices for Overloaded Code Division Multiple
+Access Systems*\", IET Communications 2013, 7, (4), p. 295-306, DOI:
+10.1049/iet-com.2012.0208.
+
+
+1. **M. H. Khoozani**, A. Rashidinejad, M.H.L Froushani, P. Pad, and F.
+Marvasti,\
+"*Almost-Optimum Signature Matrices in Binary-Input Synchronous
+Overloaded CDMA*,\" 18th IEEE Int. Conf. on Telecommunications (ICT),
+May 2011.
