@@ -15,15 +15,14 @@ I hold my M.Sc. in Applied Mathematics from the University of Michigan, in 2017.
 
 For more information see my [CV](http://mohsenhdkh.github.io/files/cv.pdf).
 
-Reseach Interests
-======
+## Reseach Interests
 My research interests broadly lie in machine learning,  information theory and quantum information theory. My recent work has mainly focused on 
 - Developing PAC learning formulations in quantum settings, with applications in quantum computing, and quantum state discrimination. 
 - Statistical Learning using discrete Fourier expansion with applications in feature selection.
 - Faithful simulation of quantum measurments. 
 
-Pre-prints
-===
+## Pre-prints
+
 
 1. **A Low Degree Learning Algorithm for Quantum Data via Quantum Fourier**, with [Wojciech Szpankowski](https://www.cs.purdue.edu/homes/spa/),
 under review.\
@@ -62,8 +61,8 @@ Capacity, Error Exponent, and Structural Results for Communication Networks,\
 [pdf](https://mohsenhdkh.github.io/files/M_Heidari_Thesis.pdf)
 
 
-Talks
-===
+## Talks
+
 - CSoI Seminar Series, Spring 2020,
 
   *A Fourier-Based Framework for Feature Selection and Supervised Binary Classification*
