@@ -39,6 +39,7 @@ Access Systems*\", IET Communications 2013, 7, (4), p. 295-306, DOI:
 1.  **M. Heidari**, T. Atif, S. Pradhan,"*Faithful Simulation of Distributed
 Quantum Measurements*\", IEEE International Symposium on Information
 Theory Proceedings (ISIT), 2019.
+[pdf]
 
 1.  **M. Heidari**, R. Venkataramanan, S. Pradhan,"*Boolean Functions with
 Biased Inputs: Approximation and Noise Sensitivity*\", IEEE
@@ -92,3 +93,4 @@ Overloaded CDMA*,\" 18th IEEE Int. Conf. on Telecommunications (ICT),
 May 2011.
 
 
+ 
