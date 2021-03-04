@@ -9,7 +9,7 @@ author_profile: true
   You can also find my articles on [Google Scholor](https://scholar.google.com/citations?user=ab9ZcfsAAAAJ&hl=en).
 
 
-# Journal Papers
+## Journal Papers
 
 1. **M. Heidari**, S. Pradhan,"*Structured Mappings and Conferencing Common
 Information for Multiple-Access Channels*\", in IEEE Transactions on
@@ -23,7 +23,7 @@ Theory, vol. 65, no. 10, pp. 6263-6289, Oct. 2019.\
 
 
 
-# Conference Papers
+## Conference Papers
 
 
 1.  **M. Heidari**, T. Atif, S. Pradhan,"*Faithful Simulation of Distributed
