@@ -11,7 +11,6 @@ author_profile: true
 
 
 
-::: {.etaremune}
 **M. Heidari**, A. Anastasopoulos, S. Pradhan, "*On The Reliability
 Function of Discrete Memoryless Multiple-Access Channel with
 Feedback*\", pre-print.
@@ -44,6 +43,6 @@ channels*\", IET Communications 2015, 9, (4), p. 508-516, DOI:
 Sub-Optimum Signature Matrices for Overloaded Code Division Multiple
 Access Systems*\", IET Communications 2013, 7, (4), p. 295-306, DOI:
 10.1049/iet-com.2012.0208.
-:::
+
 
 
