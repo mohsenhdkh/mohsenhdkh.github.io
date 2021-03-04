@@ -25,33 +25,31 @@ My research interests broadly lie in machine learning,  information theory and q
 Pre-prints
 ===
 
-**A Low Degree Learning Algorithm for Quantum Data via Quantum Fourier**, with [Wojciech Szpankowski](https://www.cs.purdue.edu/homes/spa/),
+1. **A Low Degree Learning Algorithm for Quantum Data via Quantum Fourier**, with [Wojciech Szpankowski](https://www.cs.purdue.edu/homes/spa/),
 under review, 
   available on [arXiv:2102.05209](https://arxiv.org/abs/2102.05209).
 
-**A Theoretical Framework for Learning from Quantum Data** with [Arun Padakandla](http://web.eecs.utk.edu/~arunpr/index.html) and [Wojciech Szpankowski](https://www.cs.purdue.edu/homes/spa/),
+1. **A Theoretical Framework for Learning from Quantum Data** with [Arun Padakandla](http://web.eecs.utk.edu/~arunpr/index.html) and [Wojciech Szpankowski](https://www.cs.purdue.edu/homes/spa/),
 under review. 
 
-**Information Sufficiency via Fourier Expansion**, with [Jithin Sreedharan](https://jithin-k-sreedharan.github.io/#), [Gil Shamir](https://research.google/people/GilShamir/) and [Wojciech Szpankowski](https://www.cs.purdue.edu/homes/spa/),
+1. **Information Sufficiency via Fourier Expansion**, with [Jithin Sreedharan](https://jithin-k-sreedharan.github.io/#), [Gil Shamir](https://research.google/people/GilShamir/) and [Wojciech Szpankowski](https://www.cs.purdue.edu/homes/spa/),
 under review. 
 
-**Finding Relevant Information via a Discrete Fourier Expansion**, with [Jithin Sreedharan](https://jithin-k-sreedharan.github.io/#), [Gil Shamir](https://research.google/people/GilShamir/) and [Wojciech Szpankowski](https://www.cs.purdue.edu/homes/spa/),
+1. **Finding Relevant Information via a Discrete Fourier Expansion**, with [Jithin Sreedharan](https://jithin-k-sreedharan.github.io/#), [Gil Shamir](https://research.google/people/GilShamir/) and [Wojciech Szpankowski](https://www.cs.purdue.edu/homes/spa/),
 under review. 
 
-**On Agnostic PAC Learning Using L2-Polynomial Regression and Fourier Based Algorithms**, with [Wojciech Szpankowski](https://www.cs.purdue.edu/homes/spa/),
+1. **On Agnostic PAC Learning Using L2-Polynomial Regression and Fourier Based Algorithms**, with [Wojciech Szpankowski](https://www.cs.purdue.edu/homes/spa/),
 under review,
   available on [arXiv:2102.06277](https://arxiv.org/abs/2102.06277).
 
-
-
-**On The Error Exponent of Discrete Memoryless Multiple-Access Channel with Feedback**, with [Achilleas Anastasopoulos](https://anastasopoulos.engin.umich.edu/), and  [Sandeep Pradhan](https://pradhan.engin.umich.edu/),
+1. **On The Error Exponent of Discrete Memoryless Multiple-Access Channel with Feedback**, with [Achilleas Anastasopoulos](https://anastasopoulos.engin.umich.edu/), and  [Sandeep Pradhan](https://pradhan.engin.umich.edu/),
 pre-print. 
 
-**Fourier-Based Universal Learning**, with [Gil Shamir](https://research.google/people/GilShamir/) and [Wojciech Szpankowski](https://www.cs.purdue.edu/homes/spa/),
+1. **Fourier-Based Universal Learning**, with [Gil Shamir](https://research.google/people/GilShamir/) and [Wojciech Szpankowski](https://www.cs.purdue.edu/homes/spa/),
 submitted to JMLR.
 
 
-**Faithful Simulation of Distributed Quantum Measurements with Applications in Distributed Rate-Distortion Theory**, with Touheed Anwar Atif and [Sandeep Pradhan](https://pradhan.engin.umich.edu/),
+1. **Faithful Simulation of Distributed Quantum Measurements with Applications in Distributed Rate-Distortion Theory**, with Touheed Anwar Atif and [Sandeep Pradhan](https://pradhan.engin.umich.edu/),
 submitted to IEEE Transactions on Information Theory.
 
 Talks
