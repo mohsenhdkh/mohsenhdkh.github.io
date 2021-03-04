@@ -18,8 +18,7 @@ Information Theory, vol. 66, no. 7, pp. 4203-4225, July 2020.\
 
 1. **M. Heidari**, F. Shirani, S. Pradhan,"*Quasi Structured Codes for
 Multi-Terminal Communications*\", in IEEE Transactions on Information
-Theory, vol. 65, no. 10, pp. 6263-6289, Oct. 2019.
-
+Theory, vol. 65, no. 10, pp. 6263-6289, Oct. 2019.\
     [pdf](http://mohsenhdkh.github.io/files/IT2019.pdf)
 
 
@@ -29,14 +28,12 @@ Theory, vol. 65, no. 10, pp. 6263-6289, Oct. 2019.
 
 1.  **M. Heidari**, T. Atif, S. Pradhan,"*Faithful Simulation of Distributed
 Quantum Measurements*\", IEEE International Symposium on Information
-Theory Proceedings (ISIT), 2019.
-
-[pdf](http://mohsenhdkh.github.io/files/ISIT19_Faithful.pdf)
+Theory Proceedings (ISIT), 2019.\
+  [pdf](http://mohsenhdkh.github.io/files/ISIT19_Faithful.pdf)
 
 1.  **M. Heidari**, R. Venkataramanan, S. Pradhan,"*Boolean Functions with
 Biased Inputs: Approximation and Noise Sensitivity*\", IEEE
-International Symposium on Information Theory Proceedings (ISIT), 2019.
-
+International Symposium on Information Theory Proceedings (ISIT), 2019.\
 [pdf](https://arxiv.org/abs/1901.10576)
 
 1.  **M. Heidari**, A. Anastasopoulos, S. Pradhan,"*On The Reliability
