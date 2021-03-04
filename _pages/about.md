@@ -60,7 +60,7 @@ Talks
 
 *A Fourier-Based Framework for Feature Selection and Supervised Binary Classification*
 
-- University of Main, Oct. 2020,
+- **University of Main**, Oct. 2020,
 
  *Discrete Fourier and Feature Selection*
  
@@ -68,14 +68,14 @@ Talks
 
    *Faithful Simulation of Distributed Quantum Measurements with Applications in Distributed Quantum Computing*
    
-- Information Theory and Applications Workshop (ITA), Feb. 2019,
+- **Information Theory and Applications Workshop (ITA)**, Feb. 2019,
 
     *Feature Selection and Boolean Function Approximation: An Information Theoretic Approach*
 - Purdue University, Jan. 2019,
 
     *From Communication to Information Processing: An Information Theoretic Prospective*
     
-- Conference on Information Sciences and Systems (CISS), invited talk, March 2018,
+- **Conference on Information Sciences and Systems (CISS), invited talk**, March 2018,
 
    *Structured Coding Approach to Multiple-Access Channel with Feedback*
    
@@ -83,6 +83,7 @@ Talks
 
     *Coding Structures for Multiple-Access Channel with Feedback*
 - University of Michigan Data Science Team (MDST), Feb 2018,
+
      *Quantum Information Theory*
      
 - SPEECS Seminar Series, University of Michigan, Jun 2016,
