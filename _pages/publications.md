@@ -13,14 +13,12 @@ author_profile: true
 
 1. **M. Heidari**, S. Pradhan,"*Structured Mappings and Conferencing Common
 Information for Multiple-Access Channels*\", in IEEE Transactions on
-Information Theory, vol. 66, no. 7, pp. 4203-4225, July 2020, doi:
-10.1109/TIT.2020.2980550.
+Information Theory, vol. 66, no. 7, pp. 4203-4225, July 2020.
 [pdf](https://arxiv.org/abs/1905.04760)
 
 1. **M. Heidari**, F. Shirani, S. Pradhan,"*Quasi Structured Codes for
 Multi-Terminal Communications*\", in IEEE Transactions on Information
-Theory, vol. 65, no. 10, pp. 6263-6289, Oct. 2019, doi:
-10.1109/TIT.2019.2930591.
+Theory, vol. 65, no. 10, pp. 6263-6289, Oct. 2019.
 [pdf](http://mohsenhdkh.github.io/files/IT2019.pdf)
 
 
