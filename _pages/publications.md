@@ -16,7 +16,7 @@ Information for Multiple-Access Channels*\", in IEEE Transactions on
 Information Theory, vol. 66, no. 7, pp. 4203-4225, July 2020, doi:
 10.1109/TIT.2020.2980550.
 
-1.**M. Heidari**, F. Shirani, S. Pradhan,"*Quasi Structured Codes for
+1. **M. Heidari**, F. Shirani, S. Pradhan,"*Quasi Structured Codes for
 Multi-Terminal Communications*\", in IEEE Transactions on Information
 Theory, vol. 65, no. 10, pp. 6263-6289, Oct. 2019, doi:
 10.1109/TIT.2019.2930591.
@@ -35,23 +35,6 @@ Access Systems*\", IET Communications 2013, 7, (4), p. 295-306, DOI:
 
 # Conference Papers
 
-1.  **M. Heidari**, A. Padakandla, W. Szpankowski, "*A Theoretical Framework
-for Learning from Quantum Data*\", submitted.
-
-1.  **M. Heidari**, W. Szpankowski, "*A Low Degree Learning Algorithm for
-Quantum Data via Quantum Fourier*\", submitted, available on
-[arXiv:2102.05209](https://arxiv.org/abs/2102.05209)
-
-1.  **M. Heidari**, J. Sreeharam, G. Shamir, W. Szpankowski, "*Information
-Sufficiency via Fourier Expansion*\", submitted.
-
-1.  **M. Heidari**, W. Szpankowski, "*On Agnostic PAC Learning using
-$\mathcal{L}_2$-polynomial Regression and Fourier-based Algorithms*\",
-submitted.
-
-1.  **M. Heidari**, W. Szpankowski, "**M. Heidari**, J. Sreeharam, G.
-Shamir, W. Szpankowski, "*Finding Relevant Information via a Discrete
-Fourier Expansion*\", submitted.
 
 1.  **M. Heidari**, T. Atif, S. Pradhan,"*Faithful Simulation of Distributed
 Quantum Measurements*\", IEEE International Symposium on Information
