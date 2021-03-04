@@ -57,12 +57,11 @@ Talks
 ===
 - CSoI Seminar Series, Spring 2020,
 
-
-*A Fourier-Based Framework for Feature Selection and Supervised Binary Classification*
+  *A Fourier-Based Framework for Feature Selection and Supervised Binary Classification*
 
 - **University of Main**, Oct. 2020,
 
- *Discrete Fourier and Feature Selection*
+   *Discrete Fourier and Feature Selection*
  
 - CSoI Seminar Series, Fall 2019,
 
