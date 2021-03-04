@@ -30,14 +30,16 @@ under review,
   available on [arXiv:2102.05209](https://arxiv.org/abs/2102.05209).
 
 1. **A Theoretical Framework for Learning from Quantum Data** with [Arun Padakandla](http://web.eecs.utk.edu/~arunpr/index.html) and [Wojciech Szpankowski](https://www.cs.purdue.edu/homes/spa/),
-under review. 
+under review. \
+[pdf](https://mohsenhdkh.github.io/files/ISITQuantum.pdf)
 
 1. **On Agnostic PAC Learning Using L2-Polynomial Regression and Fourier Based Algorithms**, with [Wojciech Szpankowski](https://www.cs.purdue.edu/homes/spa/),
-under review,
+under review.\
   available on [arXiv:2102.06277](https://arxiv.org/abs/2102.06277).
   
 1. **Information Sufficiency via Fourier Expansion**, with [Jithin Sreedharan](https://jithin-k-sreedharan.github.io/#), [Gil Shamir](https://research.google/people/GilShamir/) and [Wojciech Szpankowski](https://www.cs.purdue.edu/homes/spa/),
-under review. 
+under review.
+
 
 1. **Finding Relevant Information via a Discrete Fourier Expansion**, with [Jithin Sreedharan](https://jithin-k-sreedharan.github.io/#), [Gil Shamir](https://research.google/people/GilShamir/) and [Wojciech Szpankowski](https://www.cs.purdue.edu/homes/spa/),
 under review. 
@@ -46,11 +48,13 @@ under review.
 pre-print. 
 
 1. **Fourier-Based Universal Learning**, with [Gil Shamir](https://research.google/people/GilShamir/) and [Wojciech Szpankowski](https://www.cs.purdue.edu/homes/spa/),
-submitted to JMLR.
+submitted to JMLR.\
+[pdf](https://mohsenhdkh.github.io/files/JMR_Fourier.pdf)
 
 
 1. **Faithful Simulation of Distributed Quantum Measurements with Applications in Distributed Rate-Distortion Theory**, with Touheed Anwar Atif and [Sandeep Pradhan](https://pradhan.engin.umich.edu/),
-submitted to IEEE Transactions on Information Theory.
+submitted to IEEE Transactions on Information Theory.\
+available on [arXiv:1901.06788](https://arxiv.org/abs/1901.06788)
 
 Talks
 ===
