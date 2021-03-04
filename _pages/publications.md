@@ -60,7 +60,7 @@ Symposium on Information Theory Proceedings (ISIT), July 2017.\
 1.  **M. Heidari**, S. Pradhan,"*How to Compute Modulo Prime-Power Sums?*\",
 IEEE International Symposium on Information Theory Proceedings (ISIT),
 Jun 2016.\
- [pdf](http://mohsenhdkh.github.io/files/IT2019.pdf)
+ [pdf](http://mohsenhdkh.github.io/files/ISIT16.pdf)
 
 1.  **M. Heidari**, F. Shirani, S. Pradhan,"*New Sufficient Conditions for
 Multiple-Access Channel with Correlated Sources*\", IEEE International
@@ -80,7 +80,7 @@ Information Theory Proceedings (ISIT), Jun 2015.\
 1.  F. Shirani, **M. Heidari**, S. Pradhan, "*New Lattice Codes For
 Multiple Descriptions*\", IEEE International Symposium on Information Theory
 Proceedings (ISIT), Jun 2015.\
-[pdf](http://mohsenhdkh.github.io/files/isit15_1.pdf)
+[pdf](http://mohsenhdkh.github.io/files/isit15_2.pdf)
 
 
  
