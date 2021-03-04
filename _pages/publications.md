@@ -40,8 +40,8 @@ International Symposium on Information Theory Proceedings (ISIT), 2019.
 
 1.  **M. Heidari**, A. Anastasopoulos, S. Pradhan,"*On The Reliability
 Function of Discrete Memoryless Multiple-Access Channel with
-Feedback*\", Information Theory Workshop (ITW), 2018, available at
-[arXiv:1801.07777](https://arxiv.org/abs/1801.07777).
+Feedback*\", Information Theory Workshop (ITW), 2018, 
+[pdf](https://arxiv.org/abs/1801.07777).
 
 1.  **M. Heidari**, F. Shirani, S. Pradhan, "Bounds on the Effective-length
 of Optimal Codes for Interference Channel with Feedback", IEEE
