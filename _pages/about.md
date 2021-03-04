@@ -26,7 +26,7 @@ Pre-prints
 ===
 
 1. **A Low Degree Learning Algorithm for Quantum Data via Quantum Fourier**, with [Wojciech Szpankowski](https://www.cs.purdue.edu/homes/spa/),
-under review.\ 
+under review.\  
   available on [arXiv:2102.05209](https://arxiv.org/abs/2102.05209).
 
 1. **A Theoretical Framework for Learning from Quantum Data** with [Arun Padakandla](http://web.eecs.utk.edu/~arunpr/index.html) and [Wojciech Szpankowski](https://www.cs.purdue.edu/homes/spa/),
