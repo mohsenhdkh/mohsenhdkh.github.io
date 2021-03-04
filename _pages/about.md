@@ -58,7 +58,7 @@ Talks
 - CSoI Seminar Series, Spring 2020,
 
 
-*Feature Selection for Supervised Binary Classification*
+*A Fourier-Based Framework for Feature Selection and Supervised Binary Classification*
 
 - University of Main, Oct. 2020,
 
