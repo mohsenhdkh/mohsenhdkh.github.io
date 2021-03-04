@@ -57,7 +57,7 @@ submitted to IEEE Transactions on Information Theory.\
 available on [arXiv:1901.06788](https://arxiv.org/abs/1901.06788)
 
 
-**PhD Thesis**\
+### PhD Thesis
 Capacity, Error Exponent, and Structural Results for Communication Networks,\
 [pdf](https://mohsenhdkh.github.io/files/M_Heidari_Thesis.pdf)
 
