@@ -87,6 +87,7 @@ Talks
      *Quantum Information Theory*
      
 - SPEECS Seminar Series, University of Michigan, Jun 2016,
+
    *An Introduction to Quantum Information Theory*
 
 
