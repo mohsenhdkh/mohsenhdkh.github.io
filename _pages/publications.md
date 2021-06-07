@@ -36,7 +36,8 @@ Information Theory, vol. 66, no. 7, pp. 4203-4225, July 2020.\
 Multi-Terminal Communications*\", in IEEE Transactions on Information
 Theory, vol. 65, no. 10, pp. 6263-6289, Oct. 2019.\
     [pdf](http://mohsenhdkh.github.io/files/IT2019.pdf)
-1.R. Kazemi, M. Boloursaz, **M.H. Khoozani**, F. Behnia,"*Modem based on
+
+1. R. Kazemi, M. Boloursaz, **M.H. Khoozani**, F. Behnia,"*Modem based on
 sphere packing techniques in high-dimensional Euclidean sub-space for
 efficient data over voice communication through mobile voice
 channels*\", IET Communications 2015, 9, (4), p. 508-516, DOI:
