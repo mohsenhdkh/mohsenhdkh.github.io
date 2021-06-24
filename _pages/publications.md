@@ -56,7 +56,7 @@ Access Systems*\", IET Communications 2013, 7, (4), p. 295-306, DOI:
 1. **A Theoretical Framework for Learning from Quantum Data** with [Arun Padakandla](http://web.eecs.utk.edu/~arunpr/index.html) and [Wojciech Szpankowski](https://www.cs.purdue.edu/homes/spa/), IEEE International Symposium on Information Theory (ISIT), 2021. \
 [pdf](https://mohsenhdkh.github.io/files/ISITQuantum.pdf)
 
-1. **Information Sufficiency via Fourier Expansion**, with [Jithin Sreedharan](https://jithin-k-sreedharan.github.io/#), [Gil Shamir](https://research.google/people/GilShamir/) and [Wojciech Szpankowski](https://www.cs.purdue.edu/homes/spa/), IEEE International Symposium on Information Theory (ISIT), 2021..\
+1. **Information Sufficiency via Fourier Expansion**, with [Jithin Sreedharan](https://jithin-k-sreedharan.github.io/#), [Gil Shamir](https://research.google/people/GilShamir/) and [Wojciech Szpankowski](https://www.cs.purdue.edu/homes/spa/), IEEE International Symposium on Information Theory (ISIT), 2021.\
   [pdf](https://mohsenhdkh.github.io/files/ISITUnsupervised.pdf)
 
 1.  **M. Heidari**, T. Atif, S. Pradhan,"*Faithful Simulation of Distributed
