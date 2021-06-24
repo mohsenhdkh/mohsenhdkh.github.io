@@ -24,7 +24,7 @@ My research interests broadly lie in machine learning,  information theory and q
 ## Pre-prints
 
 
-1. **A Low Degree Learning Algorithm for Quantum Data via Quantum Fourier**, with [Wojciech Szpankowski](https://www.cs.purdue.edu/homes/spa/),
+1. **Quantum State Classification via Quantum Fourier**, with [Wojciech Szpankowski](https://www.cs.purdue.edu/homes/spa/),
 under review.\
   available on [arXiv:2102.05209](https://arxiv.org/abs/2102.05209).
 
