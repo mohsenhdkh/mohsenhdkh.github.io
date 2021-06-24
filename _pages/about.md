@@ -50,7 +50,7 @@ pre-print.
 
 1. **Fourier-Based Universal Learning**, with [Gil Shamir](https://research.google/people/GilShamir/) and [Wojciech Szpankowski](https://www.cs.purdue.edu/homes/spa/),
 submitted to JMLR.\
-[pdf](https://mohsenhdkh.github.io/files/ICML21_Fourier.pdf)
+[pdf](https://mohsenhdkh.github.io/files/JMR_Fourier.pdf)
 
 
 1. **Faithful Simulation of Distributed Quantum Measurements with Applications in Distributed Rate-Distortion Theory**, with Touheed Anwar Atif and [Sandeep Pradhan](https://pradhan.engin.umich.edu/),
