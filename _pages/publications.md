@@ -13,18 +13,15 @@ Capacity, Error Exponent, and Structural Results for Communication Networks,\
 [pdf](https://mohsenhdkh.github.io/files/M_Heidari_Thesis.pdf)
 
 ## Journal Papers
-1. **On Agnostic PAC Learning Using L2-Polynomial Regression and Fourier Based Algorithms**, with [Wojciech Szpankowski](https://www.cs.purdue.edu/homes/spa/),
-under review.\
+1. **M. Heidari**, W. Szpankowski,"*On Agnostic PAC Learning Using L2-Polynomial Regression and Fourier Based Algorithms*\", under review.
   available on [arXiv:2102.06277](https://arxiv.org/abs/2102.06277).
-1. **On The Error Exponent of Discrete Memoryless Multiple-Access Channel with Feedback**, with [Achilleas Anastasopoulos](https://anastasopoulos.engin.umich.edu/), and  [Sandeep Pradhan](https://pradhan.engin.umich.edu/),
-pre-print.
+1. **M. Heidari**, A. Anastasopoulos, S. Pradhan, "*On The Error Exponent of Discrete Memoryless Multiple-Access Channel with Feedback*\",
+pre-print for IEEE Transactions on Information Theory.
 
-1. **Fourier-Based Universal Learning**, with [Gil Shamir](https://research.google/people/GilShamir/) and [Wojciech Szpankowski](https://www.cs.purdue.edu/homes/spa/),
-submitted to JMLR.\
+1. **M. Heidari**, G. I. Shamir, W. Szpankowski,"*Fourier-Based Universal Learning*\", submitted to Journal of Machine Learning Research.\
 [pdf](https://mohsenhdkh.github.io/files/JMR_Fourier.pdf)
 
-1. **Faithful Simulation of Distributed Quantum Measurements with Applications in Distributed Rate-Distortion Theory**, with Touheed Anwar Atif and [Sandeep Pradhan](https://pradhan.engin.umich.edu/),
-submitted to IEEE Transactions on Information Theory.\
+1. T. Anwar Atif, **M. Heidari**, S. Pradhan, "*Faithful Simulation of Distributed Quantum Measurements with Applications in Distributed Rate-Distortion Theory*\", under review in IEEE Transactions on Information Theory.\
 available on [arXiv:1901.06788](https://arxiv.org/abs/1901.06788)
 
 1. **M. Heidari**, S. Pradhan,"*Structured Mappings and Conferencing Common
@@ -50,13 +47,13 @@ Access Systems*\", IET Communications 2013, 7, (4), p. 295-306, DOI:
 
 
 ## Conference Papers
-1. **Finding Relevant Information via a Discrete Fourier Expansion**, with [Jithin Sreedharan](https://jithin-k-sreedharan.github.io/#), [Gil Shamir](https://research.google/people/GilShamir/) and [Wojciech Szpankowski](https://www.cs.purdue.edu/homes/spa/), International Conference on Machine Learning (ICML), 2021. \
+1. **M. Heidari**, J. K. Sreedharan, G. I. Shamir, W. Szpankowski, "*Finding Relevant Information via a Discrete Fourier Expansion*\", International Conference on Machine Learning (ICML), 2021.\
 [pdf](https://mohsenhdkh.github.io/files/ICML21_Fourier.pdf) and   [supplementary Material](https://mohsenhdkh.github.io/files/ICML21_Supp.pdf)
 
-1. **A Theoretical Framework for Learning from Quantum Data** with [Arun Padakandla](http://web.eecs.utk.edu/~arunpr/index.html) and [Wojciech Szpankowski](https://www.cs.purdue.edu/homes/spa/), IEEE International Symposium on Information Theory (ISIT), 2021. \
+1. **M. Heidari**, A. Padakandla, W. Szpankowski, "*A Theoretical Framework for Learning from Quantum Data*\", IEEE International Symposium on Information Theory (ISIT), 2021. \
 [pdf](https://mohsenhdkh.github.io/files/ISITQuantum.pdf)
 
-1. **Information Sufficiency via Fourier Expansion**, with [Jithin Sreedharan](https://jithin-k-sreedharan.github.io/#), [Gil Shamir](https://research.google/people/GilShamir/) and [Wojciech Szpankowski](https://www.cs.purdue.edu/homes/spa/), IEEE International Symposium on Information Theory (ISIT), 2021.\
+1. **M. Heidari**, J. K. Sreedharan, G. I. Shamir, W. Szpankowski, "*Information Sufficiency via Fourier Expansion*\", IEEE International Symposium on Information Theory (ISIT), 2021.\
   [pdf](https://mohsenhdkh.github.io/files/ISITUnsupervised.pdf)
 
 1.  **M. Heidari**, T. Atif, S. Pradhan,"*Faithful Simulation of Distributed
