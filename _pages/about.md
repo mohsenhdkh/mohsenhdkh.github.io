@@ -37,18 +37,20 @@ under review.\
   available on [arXiv:2102.06277](https://arxiv.org/abs/2102.06277).
   
 1. **Information Sufficiency via Fourier Expansion**, with [Jithin Sreedharan](https://jithin-k-sreedharan.github.io/#), [Gil Shamir](https://research.google/people/GilShamir/) and [Wojciech Szpankowski](https://www.cs.purdue.edu/homes/spa/),
-accepted to IEEE International Symposium on Information Theory (ISIT), 2021.
+accepted to IEEE International Symposium on Information Theory (ISIT), 2021.\
+[pdf](https://mohsenhdkh.github.io/files/ISITUnsupervised.pdf)
 
 
 1. **Finding Relevant Information via a Discrete Fourier Expansion**, with [Jithin Sreedharan](https://jithin-k-sreedharan.github.io/#), [Gil Shamir](https://research.google/people/GilShamir/) and [Wojciech Szpankowski](https://www.cs.purdue.edu/homes/spa/),
-accepted to International Conference on Machine Learning (ICML), 2021. 
+accepted to International Conference on Machine Learning (ICML), 2021. \
+[pdf](https://mohsenhdkh.github.io/files/ISITUnsupervised.pdf)
 
 1. **On The Error Exponent of Discrete Memoryless Multiple-Access Channel with Feedback**, with [Achilleas Anastasopoulos](https://anastasopoulos.engin.umich.edu/), and  [Sandeep Pradhan](https://pradhan.engin.umich.edu/),
 pre-print. 
 
 1. **Fourier-Based Universal Learning**, with [Gil Shamir](https://research.google/people/GilShamir/) and [Wojciech Szpankowski](https://www.cs.purdue.edu/homes/spa/),
 submitted to JMLR.\
-[pdf](https://mohsenhdkh.github.io/files/JMR_Fourier.pdf)
+[pdf](https://mohsenhdkh.github.io/files/ICML21_Fourier.pdf)
 
 
 1. **Faithful Simulation of Distributed Quantum Measurements with Applications in Distributed Rate-Distortion Theory**, with Touheed Anwar Atif and [Sandeep Pradhan](https://pradhan.engin.umich.edu/),
