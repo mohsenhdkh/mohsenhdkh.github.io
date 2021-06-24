@@ -13,7 +13,7 @@ Capacity, Error Exponent, and Structural Results for Communication Networks,\
 [pdf](https://mohsenhdkh.github.io/files/M_Heidari_Thesis.pdf)
 
 ## Journal Papers
-1. **M. Heidari**, W. Szpankowski,"*On Agnostic PAC Learning Using L2-Polynomial Regression and Fourier Based Algorithms*\", under review.
+1. **M. Heidari**, W. Szpankowski, "*On Agnostic PAC Learning Using L2-Polynomial Regression and Fourier Based Algorithms*\", Pre-print.
   available on [arXiv:2102.06277](https://arxiv.org/abs/2102.06277).
 1. **M. Heidari**, A. Anastasopoulos, S. Pradhan, "*On The Error Exponent of Discrete Memoryless Multiple-Access Channel with Feedback*\",
 pre-print for IEEE Transactions on Information Theory.
