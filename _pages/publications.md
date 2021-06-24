@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-  You can also find my articles on [Google Scholor](https://scholar.google.com/citations?user=ab9ZcfsAAAAJ&hl=en).
+ #You can also find my articles on [Google Scholor](https://scholar.google.com/citations?user=ab9ZcfsAAAAJ&hl=en).
 
 ### PhD Thesis
 Capacity, Error Exponent, and Structural Results for Communication Networks,\
