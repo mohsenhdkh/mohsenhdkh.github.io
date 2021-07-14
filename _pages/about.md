@@ -43,8 +43,8 @@ accepted to IEEE International Symposium on Information Theory (ISIT), 2021.\
 
 1. **Finding Relevant Information via a Discrete Fourier Expansion**, with [Jithin Sreedharan](https://jithin-k-sreedharan.github.io/#), [Gil Shamir](https://research.google/people/GilShamir/) and [Wojciech Szpankowski](https://www.cs.purdue.edu/homes/spa/),
 accepted to International Conference on Machine Learning (ICML), 2021. \
-[pdf](https://mohsenhdkh.github.io/files/ICML21_Fourier.pdf) and   [supplementary Material](https://mohsenhdkh.github.io/files/ICML21_Supp.pdf)
-
+<!-- available on [pdf](https://mohsenhdkh.github.io/files/ICML21_Fourier.pdf) and   [supplementary Material](https://mohsenhdkh.github.io/files/ICML21_Supp.pdf) -->
+[PMLR](http://proceedings.mlr.press/v139/heidari21a.html)
 1. **On The Error Exponent of Discrete Memoryless Multiple-Access Channel with Feedback**, with [Achilleas Anastasopoulos](https://anastasopoulos.engin.umich.edu/), and  [Sandeep Pradhan](https://pradhan.engin.umich.edu/),
 pre-print. 
 
